@@ -11,7 +11,7 @@ void main() {
       ),
       body: Center(
         child: Image(
-          image: NetworkImage('https://www.w3schools.com/css/img_lights.jpg'),
+          image: AssetImage('images/diamond.png'),
         ),
       ),
     ),
